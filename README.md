@@ -34,38 +34,38 @@ The capstone will build upon the knowledge you have gained in the course in orde
 
 ## SolnSquareVerifier contract address at rinkeby
 
-0x3a8a1dcA6a9b6E991136cfFF9bF1ABd17f6b2e25
+0x9E54A6d4a67A4CBd608c486A2b6e06939AC298c7
 
-[SolnSquareVerifier in rinkeby](https://rinkeby.etherscan.io/address/0x3a8a1dcA6a9b6E991136cfFF9bF1ABd17f6b2e25)
+[SolnSquareVerifier in rinkeby](https://rinkeby.etherscan.io/address/0x9e54a6d4a67a4cbd608c486a2b6e06939ac298c7)
 
 
 ## openSea store-front
 
-[openSea store-front RealEstate Marketplace](https://rinkeby.opensea.io/assets/unidentified-contract-v388)
+[openSea store-front RealEstate Marketplace](https://rinkeby.opensea.io/assets/unidentified-contract-v442)
 
 ## properties sold
 
-[https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/1](https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/1)
+[https://rinkeby.opensea.io/assets/0x9e54a6d4a67a4cbd608c486a2b6e06939ac298c7/0](https://rinkeby.opensea.io/assets/0x9e54a6d4a67a4cbd608c486a2b6e06939ac298c7/0)
 
-[https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/2](https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/2)
+[https://rinkeby.opensea.io/assets/0x9e54a6d4a67a4cbd608c486a2b6e06939ac298c7/1](https://rinkeby.opensea.io/assets/0x9e54a6d4a67a4cbd608c486a2b6e06939ac298c7/1)
 
 ## properties remaining
 
-[https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/3](https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/3)
+[https://rinkeby.opensea.io/assets/0x9e54a6d4a67a4cbd608c486a2b6e06939ac298c7/2](https://rinkeby.opensea.io/assets/0x9e54a6d4a67a4cbd608c486a2b6e06939ac298c7/2)
 
-[https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/4](https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/4)
+[https://rinkeby.opensea.io/assets/0x9e54a6d4a67a4cbd608c486a2b6e06939ac298c7/3](https://rinkeby.opensea.io/assets/0x9e54a6d4a67a4cbd608c486a2b6e06939ac298c7/3)
 
-[https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/5](https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/5)
+[https://rinkeby.opensea.io/assets/0x9e54a6d4a67a4cbd608c486a2b6e06939ac298c7/4](https://rinkeby.opensea.io/assets/0x9e54a6d4a67a4cbd608c486a2b6e06939ac298c7/4)
 
-[https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/6](https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/6)
+[https://rinkeby.opensea.io/assets/0x9e54a6d4a67a4cbd608c486a2b6e06939ac298c7/5](https://rinkeby.opensea.io/assets/0x9e54a6d4a67a4cbd608c486a2b6e06939ac298c7/5)
 
-[https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/7](https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/7)
+[https://rinkeby.opensea.io/assets/0x9e54a6d4a67a4cbd608c486a2b6e06939ac298c7/6](https://rinkeby.opensea.io/assets/0x9e54a6d4a67a4cbd608c486a2b6e06939ac298c7/6)
 
-[https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/8](https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/8)
+[https://rinkeby.opensea.io/assets/0x9e54a6d4a67a4cbd608c486a2b6e06939ac298c7/7](https://rinkeby.opensea.io/assets/0x9e54a6d4a67a4cbd608c486a2b6e06939ac298c7/7)
 
-[https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/9](https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/9)
+[https://rinkeby.opensea.io/assets/0x9e54a6d4a67a4cbd608c486a2b6e06939ac298c7/8](https://rinkeby.opensea.io/assets/0x9e54a6d4a67a4cbd608c486a2b6e06939ac298c7/8)
 
-[https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/10](https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/10)
+[https://rinkeby.opensea.io/assets/0x9e54a6d4a67a4cbd608c486a2b6e06939ac298c7/9](https://rinkeby.opensea.io/assets/0x9e54a6d4a67a4cbd608c486a2b6e06939ac298c7/9)
 
 ## contract ABI
 
